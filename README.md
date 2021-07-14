@@ -1,4 +1,4 @@
-# Java Adapter Example
+# Gestion d'un garage JAVA
 
 ## Overview
 The following repo contains examples for OpenFin's Java adapter.
